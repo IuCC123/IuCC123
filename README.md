@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![forthebadge](https://forthebadge.com/images/badges/fixed-bugs.svg)]
+[forthebadge](https://forthebadge.com/images/badges/fixed-bugs.svg)

@@ -1,6 +1,7 @@
-### Hi there 👋
+# Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am IuCC, I am an experienced developer and I use serveral (coding) languages (ex: NodeJS, JavaScript, HTML, C# and Lua)
+My name is IuCC, I am an experienced developer and I use serveral (coding) languages (ex: NodeJS, JavaScript, HTML, C# and Lua).
+I like to help people out with code and I like to develop new projects every day!
 
 
 Stats:

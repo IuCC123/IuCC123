@@ -3,7 +3,7 @@
 My name is IuCC, I am an experienced developer and I use serveral (coding) languages (ex: NodeJS, JavaScript, HTML, C# and Lua).
 I like to help people out with code and I like to develop new projects every day!
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=IuCC123)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IuCC123&show_icons=true&theme=synthwave)
 

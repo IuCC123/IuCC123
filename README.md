@@ -7,4 +7,4 @@
    - 💻 HTML and CSS
    - 🌟 JavaScript
 
-Feel free to create pull requests in any my repositories, they only help and motivate me to continue working on them.
+Feel free to create pull requests in any of my repositories, they only help and motivate me to continue working on them.

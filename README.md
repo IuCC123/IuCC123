@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IuCC123&label=Profile views&color=0e75b6&style=flat" alt="IuCC123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IuCC123" alt="IuCC123" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IuCC123&theme=onedark" alt="IuCC123" /></a> </p>
 
 - 👯 I'm looking to collaborate on **Open source projects**
 

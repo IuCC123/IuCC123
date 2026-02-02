@@ -4,8 +4,6 @@
   
 ### 🚀 Full Stack Developer | Open Source Enthusiast | Tech Explorer
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=IuCC123)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 ---

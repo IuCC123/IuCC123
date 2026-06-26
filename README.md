@@ -1,14 +1,14 @@
-# 👋 Hi there, I'm IuCC
+# Hi there, I'm IuCC
 
 <div align="center">
   
-### 🚀 Full Stack Developer | Open Source Enthusiast | Tech Explorer
+### Full Stack Developer | Open Source Enthusiast | Tech Explorer
 
 </div>
 
 ---
 
-## 💫 About Me
+## About Me
 
 ```javascript
 const iucc = {
@@ -20,7 +20,7 @@ const iucc = {
 };
 ```
 
-## 🤝 Let's Connect
+## Let's Connect
 
 - 💬 Open to collaboration on **Open Source Projects**
 - 📫 Reach me at **iuccmc@proton.me**
@@ -28,7 +28,7 @@ const iucc = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -69,7 +69,7 @@ const iucc = {
 
 <div align="center">
   
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IuCC123&color=blueviolet&style=flat-square&label=Profile+Views)
 

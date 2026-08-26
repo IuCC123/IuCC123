@@ -1,4 +1,4 @@
-# Hey, I'm IuCC
+# Hey, I'm Jamie! (aka IuCC)
 
 I'm a software developer from the Netherlands. I mostly work on web applications, backend systems, infrastructure, and whatever else I find interesting enough to build.
 

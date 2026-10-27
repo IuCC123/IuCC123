@@ -13,3 +13,5 @@ Currently working on **[SwiftServers](https://github.com/SwiftServers-org)** and
 ### Contact
 
 You can reach me at **[iucc@duck.com](mailto:iucc@duck.com)**.
+
+<img src="https://ghstats.dev/api/card?username=IuCC123" alt="GitHub Stats Card" />
